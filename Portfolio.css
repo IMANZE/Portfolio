@@ -1,0 +1,12 @@
+
+.top-line{
+    display: inline; 
+    color: white;  
+}
+.center {
+    text-align: center;
+      
+}    
+.first-page{
+    background-image: url(./Bremen.jpg);
+}
