@@ -8,5 +8,39 @@
       
 }    
 .first-page{
-    background-image: url(./Bremen.jpg);
+    background-image: url(Images/Bremen2.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
 }
+
+#my-name {
+    font-size: 100px;
+    color: white;
+
+}
+.love{
+    color: white;
+    font-size: large;
+    display: inline;
+}
+.fullstack{
+    color: blue;
+    font-size: larger;
+}
+#linked-in{
+   
+    width: 35px;
+    height: 35px; 
+    left: 50%;
+    padding-right: 5px;
+    
+    
+}
+#github{
+    width: 40px;
+    height: 40px;
+    padding-left: 5px;
+    
+}  
