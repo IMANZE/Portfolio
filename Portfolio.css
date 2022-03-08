@@ -2,6 +2,7 @@
 .top-line{
     display: inline; 
     color: white;  
+   padding-right: 10px;
 }
 .center {
     text-align: center;
@@ -16,9 +17,11 @@
 }
 
 #my-name {
+    
     font-size: 100px;
     color: white;
-
+    
+    font-family: Arial, Helvetica, sans-serif;
 }
 .love{
     color: white;
@@ -26,21 +29,21 @@
     display: inline;
 }
 .fullstack{
-    color: blue;
+    color: yellow;
     font-size: larger;
 }
-#linked-in{
-   
+.linked-in{
     width: 35px;
     height: 35px; 
-    left: 50%;
     padding-right: 5px;
-    
-    
+       
 }
-#github{
-    width: 40px;
-    height: 40px;
-    padding-left: 5px;
     
-}  
+.git-link{
+margin-top: 35px ;
+;
+}
+.linked-in:hover{
+    
+    transform: scale(1.22);    
+}
