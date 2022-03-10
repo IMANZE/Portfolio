@@ -6,6 +6,7 @@
 }
 .center {
     text-align: center;
+    padding-top: 10px;
       
 }    
 .first-page{
@@ -27,23 +28,49 @@
     color: white;
     font-size: large;
     display: inline;
+    margin-top: 40px;
 }
 .fullstack{
     color: yellow;
     font-size: larger;
 }
 .linked-in{
-    width: 35px;
-    height: 35px; 
-    padding-right: 5px;
-       
+    max-height: 40px; 
+    padding-right: 10px;     
 }
     
-.git-link{
-margin-top: 35px ;
-;
+.social{
+margin-top: 70px ;
+
 }
 .linked-in:hover{
-    
     transform: scale(1.22);    
+}
+.soft-scroll{
+    margin-top: 110px;
+   
+}
+.my-passport{
+    max-height: 150px;
+}
+#about{
+    background-color: dimgray;
+}
+.pic-writup{
+    padding: 60px 40px 70px 40px;  
+}
+
+.my-passport{
+    float: left;
+    margin-right: 20px;
+}
+h2{
+    color: white;
+}
+.about-me{
+    margin-left: 250px;
+}
+.contact, .resume {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
