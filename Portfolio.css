@@ -1,86 +1,82 @@
-body{
-    margin: 0;
+body {
+  margin: 0;
 }
-.top-line{
-    display: inline; 
-    color: white;  
-   padding-right: 10px;
-   
+.top-line {
+  display: inline;
+  color: white;
+  padding-right: 10px;
 }
 .center {
-    text-align: center;
-    margin-bottom: 30px;
-    position: fixed;
-     top: 10px;
-     left: 50%;
-     transform: translateX(-50%);
-
-}    
-.first-page{
-    background-image: url(Images/Bremen2.jpg);
-    text-align: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    max-height: 100%; 
-    
+  text-align: center;
+  margin-bottom: 30px;
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.first-page {
+  background-image: url(Images/Bremen2.jpg);
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  max-height: 100%;
 }
 
 #my-name {
-    margin-top: 0;
-    font-size: 100px;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-top: 8vh;
+  margin-top: 0;
+  font-size: 100px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 8vh;
 }
-.love{
-    color: white;
-    font-size: large;
-    display: inline;
-    margin-top: 40px;
+.love {
+  color: white;
+  font-size: large;
+  display: inline;
+  margin-top: 40px;
 }
-.fullstack{
-    color: yellow;
-    font-size: larger;
+.fullstack {
+  color: yellow;
+  font-size: larger;
 }
-.linked-in{
-    max-height: 40px; 
-    padding-right: 10px;     
-}
-    
-.social{
-margin-top: 70px ;
-
-}
-.linked-in:hover{
-    transform: scale(1.23);    
-}
-.soft-scroll{
-    margin-top: 170px;
-   
-}
-.my-passport{
-    max-height: 150px;
-}
-#about{
-    background-color: dimgray;
-}
-.pic-writup{
-    padding: 60px 40px 70px 40px;  
+.linked-in {
+  max-height: 40px;
+  padding-right: 10px;
 }
 
-.my-passport{
-    float: left;
-    margin-right: 20px;
-    border-radius: 50%;
+.social {
+  margin-top: 70px;
 }
-h2{
-    color: white;
+.linked-in:hover {
+  transform: scale(1.23);
 }
-.about-me{
-    margin-left: 250px;
+.soft-scroll {
+  margin-top: 170px;
 }
-.contact, .resume {
-    padding-top: 20px;
-    padding-bottom: 20px;
+.my-passport {
+  max-height: 150px;
+}
+#about {
+  background-color: dimgray;
+}
+.pic-writup {
+  padding: 60px 40px 70px 40px;
+}
+
+.my-passport {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+h2 {
+  color: white;
+}
+.about-me {
+  margin-left: 250px;
+}
+.contact,
+.resume {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
