@@ -80,3 +80,15 @@ h2 {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+ .nice-color{
+  color: black;
+}
+.contact{
+  display: flex;
+}
+.certification{margin-left: 15px;}
+
+.cool{
+  display: flex;
+}
+a{text-decoration: none;}
