@@ -91,4 +91,6 @@ h2 {
 .cool{
   display: flex;
 }
-a{text-decoration: none;}
+a{text-decoration: none;
+}
+a:hover{background-color: yellow;}
